@@ -1,3 +1,4 @@
-# Bienvenidos a mi biografia.
+## Hola a todos mi nombre es Estiven Ramirez.
 
-## Mi nombre es Yesid Estiven Ramirez Zuluaga y estoy estudiando ingenieria de software, voy para el cuarto semestre y apenas estoy iniciando con GitHub, decidi estudiar esta carrera porque me parece interesante el programar ademas de que me encanta la tecnologia y todo lo relacionado con esta.
+Soy un estudiante de ingeneria de software en la universidad de cartagena, desde que inicie en esta carrera me esforzado mucho para ser un excelente programador, actualmente curso el cuarto semestre y tengo mucho camino por delante,
+Mi mayor meta es poder crear mi propia empresa de desarrollo de software en donde se pueda ofrecer software de calidad.
